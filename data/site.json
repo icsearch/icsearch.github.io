@@ -9,24 +9,23 @@
   {"name": "Yajie Zhao", "affiliations": [3]},
   {"name": "Xingdi Yuan", "affiliations": [4]},
   {"name": "Hengyang Lu", "affiliations": [5], "corresponding": true},
-  {"name": "Bang Liu", "affiliations": [1, 2, 6], "corresponding": true}
+  {"name": "Bang Liu", "affiliations": [1, 2], "corresponding": true}
  ],
  "affiliations": [
   "DIRO & Institut Courtois, Université de Montréal",
   "Mila - Québec AI Institute",
   "University of Southern California",
   "Microsoft Research",
-  "Ambarella Inc.",
-  "Canada CIFAR AI Chair"
+  "Ambarella Inc."
  ],
  "venue": "Preprint",
  "links": {
   "paper": "",
-  "code": "",
-  "weights": "",
+  "code": "https://github.com/icsearch/ICS",
+  "weights": "https://huggingface.co/hcshi/ICS",
   "data": "",
-  "license": "",
-  "notices": ""
+  "license": "https://github.com/icsearch/ICS/blob/main/LICENSE",
+  "notices": "https://github.com/icsearch/ICS/blob/main/THIRD_PARTY_NOTICES.md"
  },
  "bibtex": {"key": "shi2026ics", "year": "2026"}
 }
